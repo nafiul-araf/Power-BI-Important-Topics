@@ -1,7 +1,7 @@
 Here is your updated, clean, beautifully formatted Markdown file — ready to paste directly into GitHub.  
 The tree structures now render perfectly on GitHub, GitLab, VS Code, etc.
 
-```markdown
+```plaintext
 November 2025 – Current Format
 
 ## Part 1: Theory – What are .pbip and .pbir?
