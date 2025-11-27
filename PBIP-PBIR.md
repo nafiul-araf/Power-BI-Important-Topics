@@ -1,9 +1,4 @@
-
-
-
 # PBIP & PBIR Format – Complete Guide (Updated: November 2025)
-
----
 
 ## 🧠 Part 1: Understanding the New Power BI File Formats
 
@@ -29,8 +24,6 @@
 ## 📁 Part 2: Full Project Folder Structure Example
 
 Project example: **AdventureWorks Sales.pbip**
-
----
 
 ## 🔷 Root Level Structure
 
@@ -123,5 +116,3 @@ Everything is **transparent**, **text-based**, and **version-control friendly**.
 This modern structure makes Power BI development far more maintainable, Git-friendly, and professional.
 
 ```
-
----
