@@ -114,5 +114,3 @@ Everything is **transparent**, **text-based**, and **version-control friendly**.
 `.pbir` files are just **tiny signposts** telling Power BI Desktop how to open each part of the project.
 
 This modern structure makes Power BI development far more maintainable, Git-friendly, and professional.
-
-```
