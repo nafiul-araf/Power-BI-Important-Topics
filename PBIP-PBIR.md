@@ -1,6 +1,6 @@
 
 
-````markdown
+
 # PBIP & PBIR Format – Complete Guide (Updated: November 2025)
 
 ---
