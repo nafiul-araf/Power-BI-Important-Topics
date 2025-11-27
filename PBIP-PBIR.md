@@ -99,6 +99,3 @@ A **.pbip** is simply a normal folder with human-readable files instead of one o
 The tiny **.pbir** files are just signposts so Power BI Desktop knows how to open each part correctly.
 
 ```
-
-Just replace the old content with this — the trees now display perfectly on GitHub and everywhere else.
-```
