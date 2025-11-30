@@ -1,6 +1,6 @@
 # PBIP & PBIR Format – Complete Guide (Updated: November 2025)
 
-## 🧠 Part 1: Understanding the New Power BI File Formats
+## 🧠 Part 1: Understanding the Power BI File Formats
 
 ### What are `.pbip` and `.pbir`?
 
